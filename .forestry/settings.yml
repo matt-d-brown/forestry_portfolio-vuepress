@@ -24,6 +24,8 @@ sections:
   templates:
   - journal
 - type: heading
+  label: Other
+- type: heading
   label: Data
 - type: document
   path: portfolio/config.json
