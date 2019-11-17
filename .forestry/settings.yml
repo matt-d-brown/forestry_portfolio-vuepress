@@ -23,11 +23,13 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
-- type: heading
+- type: directory
+  path: portfolio/other
   label: Other
-- type: document
-  path: Other/example.html
-  label: Example Page
+  create: all
+  match: "**/*"
+  templates:
+  - home
 - type: heading
   label: Data
 - type: document
