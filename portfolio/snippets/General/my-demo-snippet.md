@@ -9,9 +9,5 @@ navigation:
   link: Example.com
   position: left
   external: true
-- text: ''
-  link: ''
-  position: ''
-  external: false
 
 ---
