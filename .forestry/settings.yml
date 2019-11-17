@@ -28,7 +28,6 @@ sections:
 - type: document
   path: Other/example.html
   label: Example Page
-  match: "**/*"
 - type: heading
   label: Data
 - type: document
