@@ -56,4 +56,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- portfolio/snippets/General/my-demo-snippet.md
 - portfolio/config.json
